@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "majidwssa01"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"majidsaworkspace01-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"majidwssa01-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://weusaadls01.dfs.core.windows.net"
+		},
+		"majidsaworkspace01-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://weusaadls01.dfs.core.windows.net"
+		},
+		"majidwssa01-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://weumajidtestadls01.dfs.core.windows.net"
+		}
+	}
+}
