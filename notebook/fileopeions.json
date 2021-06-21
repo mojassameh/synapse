@@ -1,0 +1,1517 @@
+{
+	"name": "fileopeions",
+	"properties": {
+		"nbformat": 4,
+		"nbformat_minor": 2,
+		"bigDataPool": {
+			"referenceName": "majidspark01",
+			"type": "BigDataPoolReference"
+		},
+		"sessionProperties": {
+			"driverMemory": "28g",
+			"driverCores": 4,
+			"executorMemory": "28g",
+			"executorCores": 4,
+			"numExecutors": 2,
+			"conf": {
+				"spark.dynamicAllocation.enabled": "false",
+				"spark.dynamicAllocation.minExecutors": "2",
+				"spark.dynamicAllocation.maxExecutors": "2"
+			}
+		},
+		"metadata": {
+			"saveOutput": true,
+			"synapse_widget": {
+				"version": "0.1",
+				"state": {
+					"cdd9933d-9780-4eb6-986d-719e7d4b7ade": {
+						"type": "Synapse.DataFrame",
+						"sync_state": {
+							"table": {
+								"rows": [
+									{
+										"AddressID": 9
+									},
+									{
+										"AddressID": 11
+									},
+									{
+										"AddressID": 25
+									},
+									{
+										"AddressID": 28
+									},
+									{
+										"AddressID": 32
+									},
+									{
+										"AddressID": 185
+									},
+									{
+										"AddressID": 297
+									},
+									{
+										"AddressID": 445
+									},
+									{
+										"AddressID": 446
+									},
+									{
+										"AddressID": 447
+									},
+									{
+										"AddressID": 448
+									},
+									{
+										"AddressID": 449
+									},
+									{
+										"AddressID": 450
+									},
+									{
+										"AddressID": 451
+									},
+									{
+										"AddressID": 452
+									},
+									{
+										"AddressID": 453
+									},
+									{
+										"AddressID": 454
+									},
+									{
+										"AddressID": 455
+									},
+									{
+										"AddressID": 456
+									},
+									{
+										"AddressID": 457
+									},
+									{
+										"AddressID": 458
+									},
+									{
+										"AddressID": 459
+									},
+									{
+										"AddressID": 460
+									},
+									{
+										"AddressID": 461
+									},
+									{
+										"AddressID": 462
+									},
+									{
+										"AddressID": 463
+									},
+									{
+										"AddressID": 464
+									},
+									{
+										"AddressID": 465
+									},
+									{
+										"AddressID": 466
+									},
+									{
+										"AddressID": 467
+									},
+									{
+										"AddressID": 468
+									},
+									{
+										"AddressID": 469
+									},
+									{
+										"AddressID": 470
+									},
+									{
+										"AddressID": 471
+									},
+									{
+										"AddressID": 472
+									},
+									{
+										"AddressID": 473
+									},
+									{
+										"AddressID": 474
+									},
+									{
+										"AddressID": 475
+									},
+									{
+										"AddressID": 476
+									},
+									{
+										"AddressID": 477
+									},
+									{
+										"AddressID": 478
+									},
+									{
+										"AddressID": 479
+									},
+									{
+										"AddressID": 480
+									},
+									{
+										"AddressID": 481
+									},
+									{
+										"AddressID": 482
+									},
+									{
+										"AddressID": 483
+									},
+									{
+										"AddressID": 484
+									},
+									{
+										"AddressID": 485
+									},
+									{
+										"AddressID": 486
+									},
+									{
+										"AddressID": 487
+									},
+									{
+										"AddressID": 488
+									},
+									{
+										"AddressID": 489
+									},
+									{
+										"AddressID": 490
+									},
+									{
+										"AddressID": 491
+									},
+									{
+										"AddressID": 492
+									},
+									{
+										"AddressID": 493
+									},
+									{
+										"AddressID": 494
+									},
+									{
+										"AddressID": 495
+									},
+									{
+										"AddressID": 496
+									},
+									{
+										"AddressID": 497
+									},
+									{
+										"AddressID": 498
+									},
+									{
+										"AddressID": 499
+									},
+									{
+										"AddressID": 500
+									},
+									{
+										"AddressID": 501
+									},
+									{
+										"AddressID": 502
+									},
+									{
+										"AddressID": 503
+									},
+									{
+										"AddressID": 504
+									},
+									{
+										"AddressID": 505
+									},
+									{
+										"AddressID": 506
+									},
+									{
+										"AddressID": 507
+									},
+									{
+										"AddressID": 508
+									},
+									{
+										"AddressID": 509
+									},
+									{
+										"AddressID": 510
+									},
+									{
+										"AddressID": 511
+									},
+									{
+										"AddressID": 512
+									},
+									{
+										"AddressID": 513
+									},
+									{
+										"AddressID": 514
+									},
+									{
+										"AddressID": 515
+									},
+									{
+										"AddressID": 516
+									},
+									{
+										"AddressID": 517
+									},
+									{
+										"AddressID": 518
+									},
+									{
+										"AddressID": 519
+									},
+									{
+										"AddressID": 520
+									},
+									{
+										"AddressID": 521
+									},
+									{
+										"AddressID": 522
+									},
+									{
+										"AddressID": 523
+									},
+									{
+										"AddressID": 524
+									},
+									{
+										"AddressID": 525
+									},
+									{
+										"AddressID": 526
+									},
+									{
+										"AddressID": 527
+									},
+									{
+										"AddressID": 528
+									},
+									{
+										"AddressID": 529
+									},
+									{
+										"AddressID": 530
+									},
+									{
+										"AddressID": 531
+									},
+									{
+										"AddressID": 532
+									},
+									{
+										"AddressID": 533
+									},
+									{
+										"AddressID": 534
+									},
+									{
+										"AddressID": 535
+									},
+									{
+										"AddressID": 536
+									},
+									{
+										"AddressID": 537
+									},
+									{
+										"AddressID": 538
+									},
+									{
+										"AddressID": 539
+									},
+									{
+										"AddressID": 540
+									},
+									{
+										"AddressID": 541
+									},
+									{
+										"AddressID": 542
+									},
+									{
+										"AddressID": 543
+									},
+									{
+										"AddressID": 544
+									},
+									{
+										"AddressID": 545
+									},
+									{
+										"AddressID": 546
+									},
+									{
+										"AddressID": 547
+									},
+									{
+										"AddressID": 548
+									},
+									{
+										"AddressID": 549
+									},
+									{
+										"AddressID": 550
+									},
+									{
+										"AddressID": 551
+									},
+									{
+										"AddressID": 552
+									},
+									{
+										"AddressID": 553
+									},
+									{
+										"AddressID": 554
+									},
+									{
+										"AddressID": 555
+									},
+									{
+										"AddressID": 556
+									},
+									{
+										"AddressID": 557
+									},
+									{
+										"AddressID": 558
+									},
+									{
+										"AddressID": 559
+									},
+									{
+										"AddressID": 560
+									},
+									{
+										"AddressID": 561
+									},
+									{
+										"AddressID": 562
+									},
+									{
+										"AddressID": 563
+									},
+									{
+										"AddressID": 564
+									},
+									{
+										"AddressID": 565
+									},
+									{
+										"AddressID": 566
+									},
+									{
+										"AddressID": 567
+									},
+									{
+										"AddressID": 568
+									},
+									{
+										"AddressID": 569
+									},
+									{
+										"AddressID": 570
+									},
+									{
+										"AddressID": 571
+									},
+									{
+										"AddressID": 572
+									},
+									{
+										"AddressID": 573
+									},
+									{
+										"AddressID": 574
+									},
+									{
+										"AddressID": 575
+									},
+									{
+										"AddressID": 576
+									},
+									{
+										"AddressID": 577
+									},
+									{
+										"AddressID": 578
+									},
+									{
+										"AddressID": 579
+									},
+									{
+										"AddressID": 580
+									},
+									{
+										"AddressID": 581
+									},
+									{
+										"AddressID": 582
+									},
+									{
+										"AddressID": 583
+									},
+									{
+										"AddressID": 584
+									},
+									{
+										"AddressID": 585
+									},
+									{
+										"AddressID": 586
+									},
+									{
+										"AddressID": 587
+									},
+									{
+										"AddressID": 588
+									},
+									{
+										"AddressID": 589
+									},
+									{
+										"AddressID": 590
+									},
+									{
+										"AddressID": 591
+									},
+									{
+										"AddressID": 592
+									},
+									{
+										"AddressID": 593
+									},
+									{
+										"AddressID": 594
+									},
+									{
+										"AddressID": 595
+									},
+									{
+										"AddressID": 596
+									},
+									{
+										"AddressID": 597
+									},
+									{
+										"AddressID": 598
+									},
+									{
+										"AddressID": 599
+									},
+									{
+										"AddressID": 600
+									},
+									{
+										"AddressID": 601
+									},
+									{
+										"AddressID": 602
+									},
+									{
+										"AddressID": 603
+									},
+									{
+										"AddressID": 604
+									},
+									{
+										"AddressID": 605
+									},
+									{
+										"AddressID": 606
+									},
+									{
+										"AddressID": 607
+									},
+									{
+										"AddressID": 608
+									},
+									{
+										"AddressID": 609
+									},
+									{
+										"AddressID": 610
+									},
+									{
+										"AddressID": 611
+									},
+									{
+										"AddressID": 612
+									},
+									{
+										"AddressID": 613
+									},
+									{
+										"AddressID": 614
+									},
+									{
+										"AddressID": 615
+									},
+									{
+										"AddressID": 616
+									},
+									{
+										"AddressID": 617
+									},
+									{
+										"AddressID": 618
+									},
+									{
+										"AddressID": 619
+									},
+									{
+										"AddressID": 620
+									},
+									{
+										"AddressID": 621
+									},
+									{
+										"AddressID": 622
+									},
+									{
+										"AddressID": 623
+									},
+									{
+										"AddressID": 624
+									},
+									{
+										"AddressID": 625
+									},
+									{
+										"AddressID": 626
+									},
+									{
+										"AddressID": 627
+									},
+									{
+										"AddressID": 628
+									},
+									{
+										"AddressID": 629
+									},
+									{
+										"AddressID": 630
+									},
+									{
+										"AddressID": 631
+									},
+									{
+										"AddressID": 632
+									},
+									{
+										"AddressID": 633
+									},
+									{
+										"AddressID": 634
+									},
+									{
+										"AddressID": 635
+									},
+									{
+										"AddressID": 636
+									},
+									{
+										"AddressID": 637
+									},
+									{
+										"AddressID": 638
+									},
+									{
+										"AddressID": 639
+									},
+									{
+										"AddressID": 640
+									},
+									{
+										"AddressID": 641
+									},
+									{
+										"AddressID": 642
+									},
+									{
+										"AddressID": 643
+									},
+									{
+										"AddressID": 644
+									},
+									{
+										"AddressID": 645
+									},
+									{
+										"AddressID": 646
+									},
+									{
+										"AddressID": 647
+									},
+									{
+										"AddressID": 648
+									},
+									{
+										"AddressID": 649
+									},
+									{
+										"AddressID": 650
+									},
+									{
+										"AddressID": 651
+									},
+									{
+										"AddressID": 652
+									},
+									{
+										"AddressID": 653
+									},
+									{
+										"AddressID": 654
+									},
+									{
+										"AddressID": 655
+									},
+									{
+										"AddressID": 656
+									},
+									{
+										"AddressID": 657
+									},
+									{
+										"AddressID": 658
+									},
+									{
+										"AddressID": 659
+									},
+									{
+										"AddressID": 660
+									},
+									{
+										"AddressID": 661
+									},
+									{
+										"AddressID": 662
+									},
+									{
+										"AddressID": 663
+									},
+									{
+										"AddressID": 664
+									},
+									{
+										"AddressID": 665
+									},
+									{
+										"AddressID": 666
+									},
+									{
+										"AddressID": 667
+									},
+									{
+										"AddressID": 668
+									},
+									{
+										"AddressID": 669
+									},
+									{
+										"AddressID": 670
+									},
+									{
+										"AddressID": 671
+									},
+									{
+										"AddressID": 672
+									},
+									{
+										"AddressID": 673
+									},
+									{
+										"AddressID": 674
+									},
+									{
+										"AddressID": 756
+									},
+									{
+										"AddressID": 774
+									},
+									{
+										"AddressID": 775
+									},
+									{
+										"AddressID": 776
+									},
+									{
+										"AddressID": 785
+									},
+									{
+										"AddressID": 786
+									},
+									{
+										"AddressID": 788
+									},
+									{
+										"AddressID": 789
+									},
+									{
+										"AddressID": 794
+									},
+									{
+										"AddressID": 795
+									},
+									{
+										"AddressID": 797
+									},
+									{
+										"AddressID": 801
+									},
+									{
+										"AddressID": 806
+									},
+									{
+										"AddressID": 810
+									},
+									{
+										"AddressID": 825
+									},
+									{
+										"AddressID": 826
+									},
+									{
+										"AddressID": 832
+									},
+									{
+										"AddressID": 833
+									},
+									{
+										"AddressID": 834
+									},
+									{
+										"AddressID": 835
+									},
+									{
+										"AddressID": 836
+									},
+									{
+										"AddressID": 837
+									},
+									{
+										"AddressID": 838
+									},
+									{
+										"AddressID": 839
+									},
+									{
+										"AddressID": 840
+									},
+									{
+										"AddressID": 841
+									},
+									{
+										"AddressID": 842
+									},
+									{
+										"AddressID": 843
+									},
+									{
+										"AddressID": 844
+									},
+									{
+										"AddressID": 845
+									},
+									{
+										"AddressID": 846
+									},
+									{
+										"AddressID": 847
+									},
+									{
+										"AddressID": 848
+									},
+									{
+										"AddressID": 849
+									},
+									{
+										"AddressID": 850
+									},
+									{
+										"AddressID": 851
+									},
+									{
+										"AddressID": 852
+									},
+									{
+										"AddressID": 853
+									},
+									{
+										"AddressID": 854
+									},
+									{
+										"AddressID": 855
+									},
+									{
+										"AddressID": 856
+									},
+									{
+										"AddressID": 857
+									},
+									{
+										"AddressID": 858
+									},
+									{
+										"AddressID": 859
+									},
+									{
+										"AddressID": 860
+									},
+									{
+										"AddressID": 861
+									},
+									{
+										"AddressID": 862
+									},
+									{
+										"AddressID": 863
+									},
+									{
+										"AddressID": 864
+									},
+									{
+										"AddressID": 865
+									},
+									{
+										"AddressID": 866
+									},
+									{
+										"AddressID": 867
+									},
+									{
+										"AddressID": 868
+									},
+									{
+										"AddressID": 869
+									},
+									{
+										"AddressID": 870
+									},
+									{
+										"AddressID": 871
+									},
+									{
+										"AddressID": 872
+									},
+									{
+										"AddressID": 873
+									},
+									{
+										"AddressID": 874
+									},
+									{
+										"AddressID": 875
+									},
+									{
+										"AddressID": 876
+									},
+									{
+										"AddressID": 877
+									},
+									{
+										"AddressID": 878
+									},
+									{
+										"AddressID": 879
+									},
+									{
+										"AddressID": 880
+									},
+									{
+										"AddressID": 881
+									},
+									{
+										"AddressID": 882
+									},
+									{
+										"AddressID": 883
+									},
+									{
+										"AddressID": 884
+									},
+									{
+										"AddressID": 885
+									},
+									{
+										"AddressID": 886
+									},
+									{
+										"AddressID": 887
+									},
+									{
+										"AddressID": 888
+									},
+									{
+										"AddressID": 889
+									},
+									{
+										"AddressID": 890
+									},
+									{
+										"AddressID": 891
+									},
+									{
+										"AddressID": 892
+									},
+									{
+										"AddressID": 893
+									},
+									{
+										"AddressID": 894
+									},
+									{
+										"AddressID": 895
+									},
+									{
+										"AddressID": 896
+									},
+									{
+										"AddressID": 897
+									},
+									{
+										"AddressID": 898
+									},
+									{
+										"AddressID": 899
+									},
+									{
+										"AddressID": 900
+									},
+									{
+										"AddressID": 901
+									},
+									{
+										"AddressID": 902
+									},
+									{
+										"AddressID": 903
+									},
+									{
+										"AddressID": 904
+									},
+									{
+										"AddressID": 905
+									},
+									{
+										"AddressID": 906
+									},
+									{
+										"AddressID": 907
+									},
+									{
+										"AddressID": 988
+									},
+									{
+										"AddressID": 989
+									},
+									{
+										"AddressID": 990
+									},
+									{
+										"AddressID": 991
+									},
+									{
+										"AddressID": 992
+									},
+									{
+										"AddressID": 993
+									},
+									{
+										"AddressID": 994
+									},
+									{
+										"AddressID": 995
+									},
+									{
+										"AddressID": 996
+									},
+									{
+										"AddressID": 997
+									},
+									{
+										"AddressID": 998
+									},
+									{
+										"AddressID": 999
+									},
+									{
+										"AddressID": 1000
+									},
+									{
+										"AddressID": 1001
+									},
+									{
+										"AddressID": 1002
+									},
+									{
+										"AddressID": 1003
+									},
+									{
+										"AddressID": 1004
+									},
+									{
+										"AddressID": 1005
+									},
+									{
+										"AddressID": 1006
+									},
+									{
+										"AddressID": 1007
+									},
+									{
+										"AddressID": 1008
+									},
+									{
+										"AddressID": 1009
+									},
+									{
+										"AddressID": 1010
+									},
+									{
+										"AddressID": 1011
+									},
+									{
+										"AddressID": 1012
+									},
+									{
+										"AddressID": 1013
+									},
+									{
+										"AddressID": 1014
+									},
+									{
+										"AddressID": 1015
+									},
+									{
+										"AddressID": 1016
+									},
+									{
+										"AddressID": 1017
+									},
+									{
+										"AddressID": 1018
+									},
+									{
+										"AddressID": 1019
+									},
+									{
+										"AddressID": 1020
+									},
+									{
+										"AddressID": 1021
+									},
+									{
+										"AddressID": 1022
+									},
+									{
+										"AddressID": 1023
+									},
+									{
+										"AddressID": 1024
+									},
+									{
+										"AddressID": 1025
+									},
+									{
+										"AddressID": 1026
+									},
+									{
+										"AddressID": 1027
+									},
+									{
+										"AddressID": 1028
+									},
+									{
+										"AddressID": 1029
+									},
+									{
+										"AddressID": 1030
+									},
+									{
+										"AddressID": 1031
+									},
+									{
+										"AddressID": 1032
+									},
+									{
+										"AddressID": 1033
+									},
+									{
+										"AddressID": 1034
+									},
+									{
+										"AddressID": 1035
+									},
+									{
+										"AddressID": 1036
+									},
+									{
+										"AddressID": 1037
+									},
+									{
+										"AddressID": 1038
+									},
+									{
+										"AddressID": 1039
+									},
+									{
+										"AddressID": 1040
+									},
+									{
+										"AddressID": 1041
+									},
+									{
+										"AddressID": 1042
+									},
+									{
+										"AddressID": 1043
+									},
+									{
+										"AddressID": 1044
+									},
+									{
+										"AddressID": 1045
+									},
+									{
+										"AddressID": 1046
+									},
+									{
+										"AddressID": 1047
+									},
+									{
+										"AddressID": 1048
+									},
+									{
+										"AddressID": 1049
+									},
+									{
+										"AddressID": 1050
+									},
+									{
+										"AddressID": 1051
+									},
+									{
+										"AddressID": 1052
+									},
+									{
+										"AddressID": 1053
+									},
+									{
+										"AddressID": 1054
+									},
+									{
+										"AddressID": 1055
+									},
+									{
+										"AddressID": 1056
+									},
+									{
+										"AddressID": 1057
+									},
+									{
+										"AddressID": 1058
+									},
+									{
+										"AddressID": 1059
+									},
+									{
+										"AddressID": 1060
+									},
+									{
+										"AddressID": 1061
+									},
+									{
+										"AddressID": 1062
+									},
+									{
+										"AddressID": 1063
+									},
+									{
+										"AddressID": 1064
+									},
+									{
+										"AddressID": 1065
+									},
+									{
+										"AddressID": 1066
+									},
+									{
+										"AddressID": 1067
+									},
+									{
+										"AddressID": 1068
+									},
+									{
+										"AddressID": 1069
+									},
+									{
+										"AddressID": 1070
+									},
+									{
+										"AddressID": 1071
+									},
+									{
+										"AddressID": 1072
+									},
+									{
+										"AddressID": 1073
+									},
+									{
+										"AddressID": 1074
+									},
+									{
+										"AddressID": 1075
+									},
+									{
+										"AddressID": 1076
+									},
+									{
+										"AddressID": 1077
+									},
+									{
+										"AddressID": 1078
+									},
+									{
+										"AddressID": 1079
+									},
+									{
+										"AddressID": 1080
+									},
+									{
+										"AddressID": 1081
+									},
+									{
+										"AddressID": 1082
+									},
+									{
+										"AddressID": 1083
+									},
+									{
+										"AddressID": 1084
+									},
+									{
+										"AddressID": 1085
+									},
+									{
+										"AddressID": 1086
+									},
+									{
+										"AddressID": 1087
+									},
+									{
+										"AddressID": 1088
+									},
+									{
+										"AddressID": 1089
+									},
+									{
+										"AddressID": 1090
+									},
+									{
+										"AddressID": 1091
+									},
+									{
+										"AddressID": 1092
+									},
+									{
+										"AddressID": 1093
+									},
+									{
+										"AddressID": 1094
+									},
+									{
+										"AddressID": 1095
+									},
+									{
+										"AddressID": 1096
+									},
+									{
+										"AddressID": 1097
+									},
+									{
+										"AddressID": 1098
+									},
+									{
+										"AddressID": 1099
+									},
+									{
+										"AddressID": 1100
+									},
+									{
+										"AddressID": 1101
+									},
+									{
+										"AddressID": 1102
+									},
+									{
+										"AddressID": 1103
+									},
+									{
+										"AddressID": 1104
+									},
+									{
+										"AddressID": 1105
+									},
+									{
+										"AddressID": 11380
+									},
+									{
+										"AddressID": 11381
+									},
+									{
+										"AddressID": 11382
+									}
+								],
+								"schema": {
+									"AddressID": "int"
+								}
+							},
+							"isSummary": false,
+							"language": "scala"
+						},
+						"persist_state": {
+							"view": {
+								"type": "details",
+								"chartOptions": {
+									"chartType": "bar",
+									"aggregationType": "sum",
+									"categoryFieldKeys": [],
+									"seriesFieldKeys": [
+										"AddressID"
+									],
+									"isStacked": false
+								}
+							}
+						}
+					}
+				}
+			},
+			"kernelspec": {
+				"name": "synapse_pyspark",
+				"display_name": "Synapse PySpark"
+			},
+			"language_info": {
+				"name": "python"
+			},
+			"a365ComputeOptions": {
+				"id": "/subscriptions/40366d56-c3ec-4e19-bc91-05b3ef2a573f/resourceGroups/june21/providers/Microsoft.Synapse/workspaces/majidwssa01/bigDataPools/majidspark01",
+				"name": "majidspark01",
+				"type": "Spark",
+				"endpoint": "https://majidwssa01.dev.azuresynapse.net/livyApi/versions/2019-11-01-preview/sparkPools/majidspark01",
+				"auth": {
+					"type": "AAD",
+					"authResource": "https://dev.azuresynapse.net"
+				},
+				"sparkVersion": "2.4",
+				"nodeCount": 10,
+				"cores": 4,
+				"memory": 28,
+				"automaticScaleJobs": false
+			},
+			"sessionKeepAliveTimeout": 30
+		},
+		"cells": [
+			{
+				"cell_type": "code",
+				"source": [
+					"z= spark.read.parquet('abfss://root@weumajidtestadls01.dfs.core.windows.net/Data/parquets/Address.parquet')"
+				],
+				"execution_count": 1
+			},
+			{
+				"cell_type": "code",
+				"metadata": {
+					"jupyter": {
+						"source_hidden": false,
+						"outputs_hidden": false
+					},
+					"nteract": {
+						"transient": {
+							"deleting": false
+						}
+					},
+					"collapsed": true
+				},
+				"source": [
+					"z.columns"
+				],
+				"execution_count": 2
+			},
+			{
+				"cell_type": "code",
+				"metadata": {
+					"jupyter": {
+						"source_hidden": false,
+						"outputs_hidden": false
+					},
+					"nteract": {
+						"transient": {
+							"deleting": false
+						}
+					},
+					"collapsed": true
+				},
+				"source": [
+					"z.describe()"
+				],
+				"execution_count": 6
+			},
+			{
+				"cell_type": "code",
+				"metadata": {
+					"jupyter": {
+						"source_hidden": false,
+						"outputs_hidden": false
+					},
+					"nteract": {
+						"transient": {
+							"deleting": false
+						}
+					},
+					"collapsed": true
+				},
+				"source": [
+					"display(z.select('AddressID'))"
+				],
+				"execution_count": 9
+			},
+			{
+				"cell_type": "code",
+				"metadata": {
+					"jupyter": {
+						"source_hidden": false,
+						"outputs_hidden": false
+					},
+					"nteract": {
+						"transient": {
+							"deleting": false
+						}
+					},
+					"collapsed": true
+				},
+				"source": [
+					""
+				],
+				"execution_count": null
+			}
+		]
+	}
+}
